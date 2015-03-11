@@ -32,6 +32,6 @@
         <property name="onCommentFormat" value="END GENERATED CODE"/>
     </module>
     <module name="FileLength">
-            <property name="max" value="30"/>
-        </module>   
+        <property name="max" value="1000"/>
+    </module>       
 </module>

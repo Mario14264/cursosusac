@@ -121,7 +121,7 @@
                 <configuration>
                     <configLocation>src/main/resources/checkstyle-rules.xml</configLocation>                    
                     <consoleOutput>true</consoleOutput>
-                    <failsOnError>false</failsOnError>  
+                    <failsOnError>true</failsOnError>  
                 </configuration>                        
             </plugin>
         </plugins>
