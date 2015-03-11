@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.8">
+<file name="C:\Users\Mario Rodas\Documents\NetBeansProjects\cursosusac\src\main\java\cursac\cursosusac\ConexionMySQL.java">
+<error line="1" severity="error" message="El tamaño del fichero es 89 líneas (máximas permitidas 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck"/>
+<error line="24" column="14" severity="error" message="El nombre &apos;ConexionMySQL&apos; debe coincidir con el patrón &apos;^[A-Z][a-z]*([A-Z][a-z]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\Mario Rodas\Documents\NetBeansProjects\cursosusac\src\main\java\cursac\cursosusac\GraficaPrePost.java">
+<error line="1" severity="error" message="El tamaño del fichero es 109 líneas (máximas permitidas 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck"/>
+</file>
+<file name="C:\Users\Mario Rodas\Documents\NetBeansProjects\cursosusac\src\main\java\cursac\cursosusac\restar.java">
+<error line="12" column="14" severity="error" message="El nombre &apos;restar&apos; debe coincidir con el patrón &apos;^[A-Z][a-z]*([A-Z][a-z]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\Mario Rodas\Documents\NetBeansProjects\cursosusac\src\main\java\cursac\cursosusac\ServletPrePost.java">
+<error line="1" severity="error" message="El tamaño del fichero es 113 líneas (máximas permitidas 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck"/>
+</file>
+<file name="C:\Users\Mario Rodas\Documents\NetBeansProjects\cursosusac\src\main\java\cursac\cursosusac\sumar.java">
+<error line="12" column="14" severity="error" message="El nombre &apos;sumar&apos; debe coincidir con el patrón &apos;^[A-Z][a-z]*([A-Z][a-z]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\Mario Rodas\Documents\NetBeansProjects\cursosusac\src\main\java\cursac\DBO\DAOCurso.java">
+<error line="1" severity="error" message="El tamaño del fichero es 59 líneas (máximas permitidas 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck"/>
+<error line="16" column="14" severity="error" message="El nombre &apos;DAOCurso&apos; debe coincidir con el patrón &apos;^[A-Z][a-z]*([A-Z][a-z]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+<file name="C:\Users\Mario Rodas\Documents\NetBeansProjects\cursosusac\src\main\java\cursac\DBO\DBOCurso.java">
+<error line="1" severity="error" message="El tamaño del fichero es 58 líneas (máximas permitidas 30)." source="com.puppycrawl.tools.checkstyle.checks.sizes.FileLengthCheck"/>
+<error line="12" column="14" severity="error" message="El nombre &apos;DBOCurso&apos; debe coincidir con el patrón &apos;^[A-Z][a-z]*([A-Z][a-z]+)*$&apos;." source="com.puppycrawl.tools.checkstyle.checks.naming.TypeNameCheck"/>
+</file>
+</checkstyle>

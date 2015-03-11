@@ -1,0 +1,8 @@
+#surefire
+#Wed Mar 11 14:32:56 CST 2015
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.0.1\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\Mario Rodas\\Documents\\NetBeansProjects\\cursosusac
+file.encoding=UTF-8
+localRepository=C\:\\Users\\Mario Rodas\\.m2\\repository
+basedir=C\:\\Users\\Mario Rodas\\Documents\\NetBeansProjects\\cursosusac
+test=cursac.DBO.PruebaFuncional
